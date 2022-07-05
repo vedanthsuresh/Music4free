@@ -1,0 +1,21 @@
+body {
+    background-color: #6EE7D2;
+}
+
+hr {
+    color: #585E5E;
+    size: 8px;
+}
+
+a {
+    color: #585E5E;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 1000%;
+}
+
+h1, a {
+    font-family: 'Comfortaa', sans-serif;
+}
